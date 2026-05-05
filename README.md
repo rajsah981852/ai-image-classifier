@@ -6,7 +6,7 @@ A simple AI-based image classification system that detects cats and dogs using T
 
 Features
 
-* Upload and label images (Cat / Dog)
+* Upload and label images (Cat / Dog).
 * Automatic dataset organization
 * Train a deep learning model
 * Predict whether an image is a cat or a dog
